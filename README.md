@@ -23,6 +23,7 @@
 
 python -m venv venv
 source venv\Scripts\activate
+
 Шаг 3: Установка зависимостей
 Установите необходимые зависимости с помощью файла requirements.txt:
 pip install -r requirements.txt
